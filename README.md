@@ -28,8 +28,7 @@ Para ejecutar este proyecto localmente, siga estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/icondorcett/ecommerce_project.git   
-   cd ecommerce_project
+   git clone https://github.com/icondorcett/ecommerce_project.git
    ```
 2. **Instalar dependencias:**
    ```bash
