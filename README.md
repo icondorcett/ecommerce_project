@@ -13,7 +13,7 @@ su historial de compras.
 ### Proceso de Compra
 
 El cliente agrega productos al carrito utilizando una interfaz que cargue todo dinámicamente.
-Al finalizar la compra, se realiza un único POST contodos los productos en elcarrito.
+Al finalizar la compra, se realiza un único POST (Action Finalizar compra y reducir stock) con todos los productos en el carrito. 
 Los datos del carrito deben guardarse y mostrarse en el historial de compras del cliente. 
 
 
