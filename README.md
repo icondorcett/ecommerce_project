@@ -51,8 +51,8 @@ Para ejecutar este proyecto localmente, siga estos pasos:
    http://127.0.0.1:8000/
    ```
 ## Uso
-**Panel de administración:** acceda al panel de administración http://127.0.0.1:8000/admin/ con el superuser creado para setear las contraseñas para cada cliente y administrador. 
-**Para administrador:** http://127.0.0.1:8000/admin/
-**Para cliente:** http://127.0.0.1:8000/cliente_admin/
-**API productos:** http://127.0.0.1:8000/tienda/api/productos/
-**API compras:** http://127.0.0.1:8000/tienda/api/compras/
+-**Panel de administración:** acceda al panel de administración http://127.0.0.1:8000/admin/ con el superuser creado para setear las contraseñas para cada cliente y administrador. 
+-**Para administrador:** http://127.0.0.1:8000/admin/
+-**Para cliente:** http://127.0.0.1:8000/cliente_admin/
+-**API productos:** http://127.0.0.1:8000/tienda/api/productos/
+-**API compras:** http://127.0.0.1:8000/tienda/api/compras/
