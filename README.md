@@ -19,6 +19,11 @@ Los datos del carrito deben guardarse y mostrarse en el historial de compras del
 
 ## Instrucciones de instalación
 
+### Requisitos
+
+- Python 3.8 o superior
+- Django 4.2 o superior
+
 Para ejecutar este proyecto localmente, siga estos pasos:
 
 1. **Clonar el repositorio:**
